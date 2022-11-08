@@ -4,6 +4,8 @@ Slides and code samples for Dublin Go Meetup talk "Testing in Go - Lessons Learn
 
 # Examples
 
+All examples presented in this repository are based on an excellent introduction to the [testscript](https://pkg.go.dev/github.com/rogpeppe/go-internal/testscript) utility written by [John Arundel](https://bitfieldconsulting.com) in one of the chapters in his book ["The Power of Go Tests"](https://bitfieldconsulting.com/books/tests-print).
+
 ## Example 1 - testscript introduction
 
 - [Assertions](code/example01/EXAMPLE_1.md)
@@ -32,3 +34,8 @@ Slides and code samples for Dublin Go Meetup talk "Testing in Go - Lessons Learn
 ## Example 6 - testscript 'regex' and file creation
 
 - [CLI binary with regex](code/example06/EXAMPLE_1.md)
+
+
+# How to run examples
+
+To run examples, navigate to `godublin` packages in each directory and run the `go test` utility.
