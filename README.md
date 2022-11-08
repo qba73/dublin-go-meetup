@@ -1,6 +1,6 @@
 # dublin-go-meetup
 
-Slides and code samples for Dublin Go Meetup.
+Slides and code samples for Dublin Go Meetup talk "Testing in Go - Lessons Learnt."
 
 # Examples
 
