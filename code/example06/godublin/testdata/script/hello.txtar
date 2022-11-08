@@ -1,0 +1,12 @@
+# With an argument, greet a Gopher and compare with file content.
+exec godublin Kate
+exists greet.out
+cmp greet.out golden.txt
+
+# With an argument, check if the argument exist in the file content.
+exec godublin Michael
+exists greet.out
+grep 'Michael' greet.out
+
+-- golden.txt --
+Hello Gopher, Kate

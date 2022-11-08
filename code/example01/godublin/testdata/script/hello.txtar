@@ -1,0 +1,2 @@
+exec echo 'Hello Gophers!'
+stdout 'Hello Gophers'

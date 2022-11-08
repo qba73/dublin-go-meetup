@@ -1,0 +1,2 @@
+exec godublin
+stdout 'Hello Dublin Gophers\n'

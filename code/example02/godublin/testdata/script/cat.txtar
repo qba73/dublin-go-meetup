@@ -1,0 +1,2 @@
+! exec cat not_existing_file.txt
+stderr 'cat: not_existing_file.txt: No such file or directory'

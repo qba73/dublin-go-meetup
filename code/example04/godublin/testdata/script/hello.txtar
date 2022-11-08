@@ -1,0 +1,9 @@
+# With no arguments, fail and print a usage message
+! exec godublin
+! stdout .
+stderr 'usage: Hello Gopher NAME'
+
+# With an argument, greet a Gopher using provided name
+#exec godublin Shawn
+#stdout 'Hello Gopher, Shawn'
+#! stderr .

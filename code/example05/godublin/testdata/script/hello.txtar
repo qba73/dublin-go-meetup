@@ -1,0 +1,12 @@
+# With an argument, greet a Gopher and compare with file content.
+exec godublin Kate
+cmp stdout golden.txt
+
+# With an argument, greet a Gopher and compare with invalid content.
+exec godublin Michael
+! cmp stdout golden-invalid.txt
+
+-- golden.txt --
+Hello Gopher, Kate!
+-- golden-invalid.txt --
+Hello Gopher, Kate!
