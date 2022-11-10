@@ -3,9 +3,6 @@
 [Slides](bin/TestingInGo.pdf) and code samples for Dublin Go Meetup talk "Testing in Go - Lessons Learnt."
 
 
-[![](bin/TestingInGo.png)](bin/TestingInGo.pdf)
-
-
 # Examples
 
 All examples presented in this repository are based on an excellent introduction to the [testscript](https://pkg.go.dev/github.com/rogpeppe/go-internal/testscript) utility written by [John Arundel](https://bitfieldconsulting.com) [@bitfield](https://github.com/bitfield) in one of the chapters in his book ["The Power of Go Tests"](https://bitfieldconsulting.com/books/tests-print).
