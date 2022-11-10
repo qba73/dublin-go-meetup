@@ -1,4 +1,4 @@
-module godub
+module godublin
 
 go 1.19
 
