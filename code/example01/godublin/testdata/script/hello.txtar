@@ -1,2 +1,2 @@
-exec echo 'Hello Gophers!'
+exec echo 'Hello Gophers!\n'
 stdout 'Hello Gophers'

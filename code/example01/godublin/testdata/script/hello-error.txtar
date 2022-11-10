@@ -1,2 +1,2 @@
 exec echo 'Hello Gophers!'
-stdout 'Hi Gophers\n'
+! stdout 'Hi Gophers\n'
