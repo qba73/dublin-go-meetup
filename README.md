@@ -2,6 +2,9 @@
 
 [Slides](bin/TestingInGo.pdf) and code samples for Dublin Go Meetup talk "Testing in Go - Lessons Learnt."
 
+[![Presentation](bin/TestinginGo.png)](bin/TestingInGo.pdf)
+
+
 
 # Examples
 
