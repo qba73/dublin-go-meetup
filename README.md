@@ -1,6 +1,6 @@
 # dublin-go-meetup
 
-[Slides](bin/TestingInGo.pdf) and code samples for Dublin Go Meetup talk "Testing in Go - Lessons Learnt."
+[Slides](bin/TestingInGo.pdf) and code samples for [Dublin Go Meetup](https://www.meetup.com/goireland/events/289521947/) talk "Testing in Go - Lessons Learnt."
 
 [![Presentation](bin/TestinginGo.png)](bin/TestingInGo.pdf)
 
